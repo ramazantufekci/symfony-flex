@@ -1,0 +1,3 @@
+index:
+    path: /ingilizce-ceviri
+    controller: App\Controller\DefaultController::deneme
